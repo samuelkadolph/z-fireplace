@@ -1,0 +1,7 @@
+*-backups
+*.bak
+*.kicad_prl
+\#auto_saved_files#
+_autosave-*
+fp-info-cache
+output
